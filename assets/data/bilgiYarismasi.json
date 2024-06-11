@@ -1,0 +1,574 @@
+{
+  "sorular": [
+    {
+      "soru": "Aşağıdakilerden hangisinde hedef açlık kan şeker değeri doğru olarak verilmiştir?",
+      "secenekler": {
+        "a": "70 in altında",
+        "b": "250 nin üzerinde",
+        "c": "140-250",
+        "d": "80-130"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi yüksek kan şekeri belirtisidir?",
+      "secenekler": {
+        "a": "Çok su içme",
+        "b": "Ağız kuruluğu",
+        "c": "Çok idrara çıkma",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetli bireyler için genellikle önerilen öğün düzenidir?",
+      "secenekler": {
+        "a": "3 ana öğün",
+        "b": "3 ana öğün 3 ara öğün",
+        "c": "4 ana öğün",
+        "d": "2 ana öğün 2 ara öğün"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi düşük kan şekeri belirtisidir?",
+      "secenekler": {
+        "a": "Çok su içme",
+        "b": "Çok idrara çıkma",
+        "c": "Terleme",
+        "d": "Bulantı - kusma"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi uygun kan şekeri kontrolü sağlanamadığında görülen sağlık sorunlarından değildir?",
+      "secenekler": {
+        "a": "Kan şekeri düşüklüğü",
+        "b": "Kan şekeri yüksekliği",
+        "c": "Tansiyon düşüklüğü",
+        "d": "Tansiyon yüksekliği"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "............. pankreastan salgılanan insülin hormonun eksikliği ve/veya kullanımındaki yetersizlikten kaynaklanan hastalıktır. Aşağıdakilerden hangisi boşluğa uygundur?",
+      "secenekler": {
+        "a": "Diyabet",
+        "b": "Tansiyon",
+        "c": "Kolesterol",
+        "d": "Kansızlık"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastalığında ayak bakımı ile ilgili yanlış uygulamadır?",
+      "secenekler": {
+        "a": "Ayaklar üşüdüğünde ısıtıcı-sıcak su torbası ile direkt temas etmemelidir",
+        "b": "Ayaklar haftada 1 kontrol edilmelidir",
+        "c": "Ayakkabılar giyilmeden mutlaka kontrol edilmelidir",
+        "d": "Ayaklar yıkandıktan sonra kurulanmalı(özellikle parmak araları)"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastası için egzersiz ile ilgili hangisi doğrudur?",
+      "secenekler": {
+        "a": "Aç karnına egzersiz yapılabilir",
+        "b": "Yemekten hemen sonra egzersiz yapılabilir",
+        "c": "Egzersiz öncesi ve sonrası kan şekeri ölçülmelidir",
+        "d": "Kan şekeri 70 altında ise egzersiz yapılabilir"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi evde kan şekeri ölçümü ile ilgili yanlış bilgidir?",
+      "secenekler": {
+        "a": "Ölçüm çubuklarının son kullanma tarihleri kontrol edilmelidir",
+        "b": "Ölçülen kan şekerinin kayıt altına alınmalıdır",
+        "c": "Ölçüm çubuğunda yeterli kan olmada doğru sonuç verir",
+        "d": "Belirli aralıklarla ölçüm cihazının bakımının yaptırılması gerekmektedir"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "........... ana öğünden 2 saat sonra ölçülen kan şeker değeri olarak tanımlanmaktadır. Aşağıdakilerden hangisi boşluğa uygundur?",
+      "secenekler": {
+        "a": "Açlık kan şekeri",
+        "b": "Tokluk kan şekeri",
+        "c": "Rastgele kan şekeri",
+        "d": "3 aylık kan şekeri (HbA1C)"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Halsizlik, terleme, kalp çarpıntısı ve titreme aşağıdaki sağlık sorunlarından hangisinin belirtisidir?",
+      "secenekler": {
+        "a": "Kan şekeri yüksekliği",
+        "b": "Kan şekeri düşüklüğü",
+        "c": "Normal kan şekeri",
+        "d": "Tansiyon yüksekliği"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Kan şekeri düşüklüğü denilen hipoglisemi yaşandığında hangisi yapılmalıdır?",
+      "secenekler": {
+        "a": "Egzersiz yapılmalıdır",
+        "b": "Öğün beklenmelidir",
+        "c": "4-6 kesme şeker yenilmelidir",
+        "d": "Öğün atlanmalıdır"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Çok su içme, çok idrara çıkma ve ağızda çürük elma kokusu hangi sağlık sorunun belirtisidir?",
+      "secenekler": {
+        "a": "Yüksek kan şekeri",
+        "b": "Normal kan şekeri",
+        "c": "Düşük kan şekeri",
+        "d": "Düşük tansiyon"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Kan şekeri düşüklüğü olarak adlandırılan hipoglisemiyi önlemek için yapılması gereken uygulamalardandır?",
+      "secenekler": {
+        "a": "Gereğinden az beslenilmesidir",
+        "b": "Ara öğün yapılmasına gerek yoktur",
+        "c": "Yoğun fiziksel aktivite yapılmalıdır",
+        "d": "Rutin doktor kontrolleri aksatılmamalıdır."
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastası bireyin risk altında olduğu sağlık sorunlarından biri değildir?",
+      "secenekler": {
+        "a": "Göz hastalıkları",
+        "b": "Böbrek hastalığı",
+        "c": "Tansiyon düşüklüğü",
+        "d": "Tansiyon yüksekliği"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "I. Doktor kontrolüne gidilmelidir.\nII.Diyabetli olduğuna dair kimlik/bileklik takmalıdır.\nIII. Seyahat boyunca kan şekeri takibi yapılmasına gerek yoktur\nIV. Kan şeker ölçüm cihazı ve çubukları yanında bulundurulmalıdır.\nYukarıdakilerden hangisi şeker hastası olan bireyin seyahat sırasında ve öncesinde yapılması gereken uygulamalardandır?",
+      "secenekler": {
+        "a": "I-II",
+        "b": "I-III",
+        "c": "I-II-III",
+        "d": "I-II-IV"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi insülin saklama koşulları için doğrudur?",
+      "secenekler": {
+        "a": "Güneş ışığına maruz bırakmamalıyız.",
+        "b": "Dondurmamalıyız",
+        "c": "Buzdolabında 2-4 derecede saklamalıyız",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastası bireyin ayakkabı seçiminde dikkat etmesi gerekenlerden değildir?",
+      "secenekler": {
+        "a": "Ayakkabı ayağı kavramalı",
+        "b": "Sivri burun olmalı",
+        "c": "Ortopedik olmalı",
+        "d": "Açık (sandalet) ayakkabı olmamalı"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "I. Çok idrara çıkma\nII. Çok su içme\nIII. Yaraların erken iyileşmesi\nYukarıdakilerden hangisi şeker hastalığına özgü belirtilerdendir?",
+      "secenekler": {
+        "a": "I",
+        "b": "II",
+        "c": "I-II",
+        "d": "I-II-III"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastası bireyin egzersiz yaparken ayak sağlığını koruması için uygun seçimdir?",
+      "secenekler": {
+        "a": "Sandalet-terlik kullanılmalıdır",
+        "b": "Sivri burun ayakkabı, uzun çorap kullanılmalı",
+        "c": "Düz taban ayakkabı ile sentetik çorap kullanılmalı",
+        "d": "Kapalı ayakkabı ile pamuklu çorap kullanılmalıdır"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "İnsülinleri vücudumuzda hangi bölgelere uygulayabiliriz?",
+      "secenekler": {
+        "a": "Kolun üst yan kısmı",
+        "b": "Bacağın üst yan kısmı",
+        "c": "Karın bölgesi",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastalığını yönetmek için gerekli unsurlardan biri değildir?",
+      "secenekler": {
+        "a": "Diyet kontrolü",
+        "b": "Yeterli egzersiz",
+        "c": "Kendi kendine kan şekeri takip",
+        "d": "Sağlık kurumlarından yararlanmamak"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Ağızda çürük elma kokusu olması şeker hastalığında aşağıdakilerden hangisinin göstergesidir?",
+      "secenekler": {
+        "a": "Kan şekerinin yükseldiğinin",
+        "b": "Kan şekerinin düştüğünün",
+        "c": "Normal kan şekeri değeri",
+        "d": "Tansiyon Düşüklüğü"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi insülin uygulaması için doğru değildir?",
+      "secenekler": {
+        "a": "Bölge değiştirerek uygulanmalıdır.",
+        "b": "İnsülinler uygulama öncesi çalkalanmamalıdır.",
+        "c": "Aynı bölgeye uygulanacaksa 1 parmak boşluk bırakılarak yapılmalıdır.",
+        "d": "Sürekli aynı bölgeye uygulama yapılabilir."
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "I.Kan şeker değeri\nII.Ölçüm zamanı (aç/tok)\nIII.Ölçüm tarihi\nYukarıdakilerden hangileri evde kan şekeri takibinde kayıt edilmesi gereken ifadelerdendir?",
+      "secenekler": {
+        "a": "I",
+        "b": "I-II",
+        "c": "I-III",
+        "d": "I-II-III"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi evde bireysel kan şekeri takibi ile ilgili doğru değildir?",
+      "secenekler": {
+        "a": "Ölçümler kaydedilmelidir.",
+        "b": "Ölçüm defteri kontrollerde yanın götürülmelidir.",
+        "c": "Ölçüm cihazı bozulana kadar bakım yaptırmadan kullanılmalıdır.",
+        "d": "Ölçüm çubukları ısı ve nemden korunmalıdır."
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastası bireylerin beslenme yönetimi ile ilgili doğru ifadedir?",
+      "secenekler": {
+        "a": "Bazı bitkiler tüketildiğinde kan şekerini düşürür",
+        "b": "Ara öğünde meyve tüketilebilir",
+        "c": "Doğal balda şeker yoktur serbestçe tüketilebilir",
+        "d": "Kepekli ekmek serbest miktarda tüketilebilir"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisinde hedef tokluk kan şeker değeri doğru olarak verilmiştir?",
+      "secenekler": {
+        "a": "70 altında",
+        "b": "250 üzerinde",
+        "c": "70-120",
+        "d": "160-180"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Şeker hastası bireylerde ayaklarda yanma, batma ve karıncalanma hissi var ise hangi sağlık sorunun belirtisidir?",
+      "secenekler": {
+        "a": "Sinir hasarı",
+        "b": "Böbrek hasarı",
+        "c": "Kan şekeri düşüklüğü",
+        "d": "Göz hasarı"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Şeker hastası bireyler yukarıdaki sorunlardan hangilerini yaşarsa doktora başvurmalıdır?",
+      "secenekler": {
+        "a": "I-II",
+        "b": "II-III",
+        "c": "I-III",
+        "d": "I-II-III"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Uzun yıllar kan şekerinin yüksek olması hangi organlara zarar vererek yeni sağlık sorunlarının oluşmasına neden olur?",
+      "secenekler": {
+        "a": "Böbrek",
+        "b": "Göz",
+        "c": "Beyin ve sinirler",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "3 aylık kan şekeri değerinin hedef aralığı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "a": "7 den düşük",
+        "b": "8 den düşük",
+        "c": "9 dan düşük",
+        "d": "10 dan düşük"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabet tedavisi bileşenlerinden değildir?",
+      "secenekler": {
+        "a": "Sigara kullanımı",
+        "b": "Sağlıklı beslenme",
+        "c": "Kilo kontrolünün sağlanması",
+        "d": "Yeterli fiziksel aktivite"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetli bireylere uygun fiziksel aktiviteler ile ilgili doğru değildir?",
+      "secenekler": {
+        "a": "Isınma hareketleri ile başlanmalıdır.",
+        "b": "Egzersizi bitirirken soğuma egzersizlerine gerek yoktur.",
+        "c": "Haftada3-5 gün, günde 30-45 dk olmalıdır",
+        "d": "Hafif şiddette başlamalıdır."
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Diyabetli bireyler fiziksel aktivite yaparken aşağıdakilerden hangisine dikkat etmelidir?",
+      "secenekler": {
+        "a": "Su içilmemelidir",
+        "b": "Kan şekeri kontrolü sağlanmalıdır",
+        "c": "Kan şekeri yüksek olsa da egzersiz yapılmalıdır",
+        "d": "Çıplak ayak ile egzersiz yapılabilir"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Hangileri kan şekerinin yükselmesine sebep olur?",
+      "secenekler": {
+        "a": "I-II",
+        "b": "I-III",
+        "c": "II-III",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Yukarıdaki durumlardan hangilerinde diyabetik ayak yarası oluşumunu önlemek için sağlık kuruluşuna başvurulması gerekmektedir?",
+      "secenekler": {
+        "a": "Yalnız I",
+        "b": "I-II",
+        "c": "I-III",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetik ayak yaralarına sebep olmaz?",
+      "secenekler": {
+        "a": "Nasır kesilmesi",
+        "b": "Ayak mantarı",
+        "c": "Çıplak ayak ile yürüme",
+        "d": "Düz tırnak kesimi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "İnsülin hormonu ne işe yarar?",
+      "secenekler": {
+        "a": "Kan şekerini düşürür",
+        "b": "Kan şekeri yükseltir",
+        "c": "Tansiyonu yükseltir",
+        "d": "Tansiyonu düşürür"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Kan şekeri uzun süre yüksek seyrediyorsa aşağıdakilerden hangisi yapılmalıdır?",
+      "secenekler": {
+        "a": "Ara öğün yenilmelidir",
+        "b": "Egzersiz yapılmalıdır",
+        "c": "Sağlık kurumuna başvurulmalıdır",
+        "d": "Su içilmemelidir"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Kan şekeri çok ciddi yükselirse ağızda nasıl bir koku oluşur?",
+      "secenekler": {
+        "a": "Çürük elma",
+        "b": "Balık",
+        "c": "Sarımsak",
+        "d": "Çürük soğan"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetik ayağın sebeplerindendir?",
+      "secenekler": {
+        "a": "Cisim batmaları",
+        "b": "Yanıklar",
+        "c": "Nasır varlığı",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Kan şekeri yüksekliğine bağlı sinir hasarı ileri dönemlerde aşağıdakilerden hangi sağlık sorununa sebep olur?",
+      "secenekler": {
+        "a": "Göz hastalığı",
+        "b": "Böbrek hastalığı",
+        "c": "Diyabetik ayak",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdaki hangisi insülin uygulaması için doğru değildir?",
+      "secenekler": {
+        "a": "İnsülinler bağımlılık yapar",
+        "b": "İnsülinler böbrek ve göze zarar vermez",
+        "c": "İnsülin dozları doktor kontrolüyle değiştirilebilir.",
+        "d": "İnsülin uygulama sonrası iğne çıkarılmadan 10 saniye beklenir."
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Diyabetli birey dışarıda yemek yerken dikkat etmesi gerekenlerinden değildir?",
+      "secenekler": {
+        "a": "Diyete uygun menü seçimi yapılmalıdır",
+        "b": "Diyet içecekler serbestçe tüketilebilir",
+        "c": "Az kalorili besinler tercihler edilmelidir",
+        "d": "Kalorili içecekler tüketilmemelidir."
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Aşağıdaki belirtilerden hangileri hissedildiğinde kan şekeri ölçülmelidir?",
+      "secenekler": {
+        "a": "Titreme",
+        "b": "Terleme",
+        "c": "Çok idrara çıkma",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetli bireyler ile ilgili besin tüketiminde doğru ifade değildir?",
+      "secenekler": {
+        "a": "Doğal balda şeker vardır dikkatli tüketilmelidir",
+        "b": "Limonda şeker yoktur serbestçe tüketilebilir",
+        "c": "Baharatlar ve bitkiler kan şekerini düşürmede etkisizdir.",
+        "d": "Ekmek ve tahıllar diyette yeterli miktarda tüketilmelidir."
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi diyabetli bireyin çorap seçerken dikkat etmesi gerekenlerden değildir?",
+      "secenekler": {
+        "a": "Dikişsiz olmalı",
+        "b": "Genellikle açık renk tercih edilmeli",
+        "c": "Ayağı sıkıca kavramalı",
+        "d": "Pamuklu olmalı"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Diyabetli birey tatile çıktığında dikkat etmesi gerekenlerden değildir?",
+      "secenekler": {
+        "a": "Kumsalda çıplak ayak yürüyebilir",
+        "b": "Kan şekeri takibi artırılmalıdır.",
+        "c": "Diyetine uygun yiyecekler tercih edilmeli",
+        "d": "Denize girerken deniz ayakkabısı kullanmalı"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi şeker hastalığı ile ilgili doğru bir ifadedir?",
+      "secenekler": {
+        "a": "Şeker hastası spor yapamaz",
+        "b": "Ekşi meyvelerde şeker oranı az olduğu için serbestçe tüketilebilir",
+        "c": "Acil durumlar dışında rutin doktor kontrolüne gerek yoktur",
+        "d": "Yaşam boyu tedavi ve takip gerektiren bir hastalıktır"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Şeker hastası bireylerde ayaklarda ödem tansiyon yüksekliği varsa rutin takipler dışında hangi organ kontrolü için doktora gidilmelidir?",
+      "secenekler": {
+        "a": "Böbrek",
+        "b": "Beyin",
+        "c": "Göz",
+        "d": "Diş"
+      },
+      "dogruCevap": "a"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi Şeker hastalığında ayaklardaki sinir hasarı belirtilerindendir?",
+      "secenekler": {
+        "a": "Karıncalanma",
+        "b": "Batma",
+        "c": "Üşüme",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi ayak bakımında doğru uygulamalardan biri değildir?",
+      "secenekler": {
+        "a": "Ayaklar günlük olarak yıkanmalıdır",
+        "b": "Ayaklar yıkandıktan sonra parmak araları kurulanmalıdır",
+        "c": "Ayakların parmak aralarınada nemlendirici krem sürülmelidir",
+        "d": "Ayaklar günlük olarak kontrol edilmelidir"
+      },
+      "dogruCevap": "c"
+    },
+    {
+      "soru": "Çarpıntı, terleme belirtileri var ve kan şekerinizi ölçtünüz 64 çıktı aşağıdakilerden hangisi yapılmalıdır?",
+      "secenekler": {
+        "a": "Yemek yenmemeli",
+        "b": "3-4 küp şeker ya da meyve suyu içilmeli",
+        "c": "Kullanılıyorsa şeker ilacı/insülin yapılmalı",
+        "d": "Egzersiz yapılmalı"
+      },
+      "dogruCevap": "b"
+    },
+    {
+      "soru": "Aşağıdakilerden hangi muayeneler rutin olarak yılda 1 kez yaptırılmalıdır?",
+      "secenekler": {
+        "a": "Göz muayenesi",
+        "b": "Böbrek muayenesi",
+        "c": "Sinir hasarı muayenesi",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Aşağıdakilerden hangisi kan şekerinin yükselmesine sebep olur?",
+      "secenekler": {
+        "a": "Gereğinden fazla beslenme",
+        "b": "Yetersiz fiziksel aktivite",
+        "c": "Doktorun önerdiği İlaç/insülin kullanılmaması",
+        "d": "Hepsi"
+      },
+      "dogruCevap": "d"
+    },
+    {
+      "soru": "Yemekten 2 saat sonra ölçülen kan şekeri hedef değeri ne olmalıdır?",
+      "secenekler": {
+        "a": "70 altında",
+        "b": "250 üstünde",
+        "c": "160-180",
+        "d": "80-130"
+      },
+      "dogruCevap": "d"
+    }
+  ]
+}

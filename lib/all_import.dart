@@ -1,0 +1,11 @@
+export 'home/boykilo.dart';
+export 'home/dersProgramı.dart';
+export 'home/Devamsızlık.dart';
+export 'home/Duyurular.dart';
+export 'home/homescreen.dart';
+export 'home/odeme.dart';
+export 'home/zil.dart';
+export 'menu/Ayarlar.dart';
+export 'menu/Kurumsal.dart';
+export 'menu/profil.dart';
+export 'theme.dart';
